@@ -20,7 +20,7 @@ The game is designed for players of various ages, typically catering to teenager
 
 The interaction between players are cooperative, emphasizing teamwork and collective decision-making. While there may be individual challenges and puzzles to solve, the overarching goal is the family's success, encouraging players to collaborate and pool their skills to navigate the complexities of managing life in a new country with limited resources.
 
-<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
+<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/familyplayers.png" alt="Example Image">
 
 ### 2. יעדים
 The objectives for players to win "BudgetLife-Challenge" include:
@@ -35,7 +35,7 @@ The objectives for players to win "BudgetLife-Challenge" include:
 
 The game will inform players of their goals through a combination of in-game prompts, notifications, and a dedicated objectives interface. As players progress through the game, they will receive updates on their family's well-being, financial status, and helping them stay focused on achieving their objectives. Additionally,  challenges and events will arise to provide players with specific, short-term goals that contribute to the overall success of the family.
 
-<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
+<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/goals.png" alt="Example Image">
 
 ### 3. תהליכים
 **1. First Thirty Seconds:**
@@ -64,7 +64,7 @@ The game will inform players of their goals through a combination of in-game pro
 
 By providing clear guidance, visual cues, and an engaging introductory sequence, the game aims to get players attention within the first thirty seconds and sustain their interest throughout the core and ending processes.
 
-<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
+<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/process.png" alt="Example Image">
 
 ### 4. חוקים
 
@@ -88,7 +88,7 @@ By providing clear guidance, visual cues, and an engaging introductory sequence,
 
 By gradually introducing and reinforcing rules through tutorials, in-game guidance, and feedback mechanisms, players can learn to navigate the complexities of the game while understanding the consequences of their actions.
 
-<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
+<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/rules.png" alt="Example Image">
 
 ### 5. משאבים
 **Money:**
@@ -142,15 +142,15 @@ The game involves working together with family members. Players balance helping 
 1. **The Sims**
 https://www.ea.com/games/the-sims
 While The Sims focuses on individual life simulation, our game emphasizes the collective experience of a family adapting to a new country. The integration of puzzles, community interactions, and systemic challenges adds a layer of complexity beyond individual life management.
-<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
+<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/sims.jpeg" alt="Example Image">
 
 3. **This War of Mine**
 https://store.steampowered.com/app/282070/This_War_of_Mine/
 This War of Mine is a harsh realities of war, whereas our game is the challenges of immigration. Our game explores economic constraints, skill development, and community relations in a new country.
-<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
+<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/This%20War%20of%20Mine.jpeg" alt="Example Image">
 
 4. **Banished**
 https://store.steampowered.com/app/242920/Banished/
 While Banished involves establishing a settlement, our game's emphasis is on a family unit, individual skill development, and the intricate balance between cooperation and competition with other in-game families sets it apart. The narrative context of adapting to a new country adds unique challenges.
-<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
+<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/Banished.jpeg" alt="Example Image">
 

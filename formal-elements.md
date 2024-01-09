@@ -7,7 +7,7 @@ A simulation game where a family must thrive in a new country with limited funds
 
 The game is designed for a regular computer.
 
-<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
+<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png" alt="Example Image">
 
 
 ---

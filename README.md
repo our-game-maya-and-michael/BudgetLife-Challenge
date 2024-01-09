@@ -21,8 +21,8 @@ The game is designed for players of various ages, typically catering to teenager
 The interaction between players are cooperative, emphasizing teamwork and collective decision-making. While there may be individual challenges and puzzles to solve, the overarching goal is the family's success, encouraging players to collaborate and pool their skills to navigate the complexities of managing life in a new country with limited resources.
 
 <img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
-### 2. יעדים
 
+### 2. יעדים
 The objectives for players to win "BudgetLife-Challenge" include:
 
 1. **Puzzle Solving:** Solve a diverse range of puzzles spanning budgeting challenges, community quests, skill-building tasks, and decision-making dilemmas to overcome obstacles.
@@ -91,53 +91,67 @@ By gradually introducing and reinforcing rules through tutorials, in-game guidan
 <img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 
 ### 5. משאבים
+**Money:**
+Money is the primary resource for purchasing essentials, upgrading housing, and addressing challenges. Earned through jobs, puzzles, and financial decisions, it directly impacts the family's well-being and stability. Job opportunities are limited, requiring strategic choices.
 
-* מה יהיו המשאבים במשחק?
-* איך המשאבים הללו יועילו לשחקן?
-* איך השחקן יוכל להשיג משאבים?
-* איך עיצוב המשחק יגרום לכך שהמשאבים יהיו נדירים (שלא יהיה קל מדי להשיג אותם)?
-* איך המשחק יודיע לשחקן מה הם המשאבים במשחק, וכמה משאבים יש לו בכל רגע?
+**Time:**
+A crucial resource representing the family's daily schedule. Efficient time management is key for completing tasks, engaging in skill-building activities, and progressing in the game. Players allocate time through daily planning, leading to increased productivity.
+
+**Skills:**
+Individual skills influence family members' contributions. Developed through solving puzzles and engaging in activities, improving skills unlocks opportunities and enhances overall capabilities. Skill development is gradual, emphasizing long-term success.
+
+A real-time display of the money, time, and skills. Notifications keep players updated on resources, job opportunities, and community feedback. The progress tracker visually represents the family's status, aiding informed decision-making.
+
+<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 
 ### 6. עימותים
 
-מה יהיו העימותים המרכזיים במשחק:
+1. **Between the Player and the System (Obstacles):**
+   - The player faces various challenges and obstacles that affect the family's progress. These may include economic downturns, unexpected expenses, and limited job opportunities.
 
-* בין השחקן למערכת (מכשולים),
-* בין השחקן לשחקנים אחרים (יריבים),
-* בין השחקן לעצמו (דילמות)? 
+2. **Between the Player and Himself (Dilemmas):**
+   - The player encounters personal dilemmas, where decisions have moral, ethical, or emotional implications for the family.
+<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 
 
 ### 7. גבולות
+The game world will be closed and round, focusing on the family's immediate surroundings within the new country. While the family can engage with the local community and navigate various challenges, the overall scope is restricted to enhance the depth of personal and community interactions.
+The round world design naturally presents a continuous landscape, and players will notice distinctive features marking the limits of exploration.
 
-מה יהיו הגבולות של עולם המשחק? האם העולם יהיה - 
-* סגור או פתוח?
-*  עגול או שטוח? 
+Progression through the game unlocks new regions and expands the playable world, offering players a dynamic and evolving landscape to explore.
 
- איך המשחק יראה לשחקן את הגבולות? 
- 
- הסבירו איך המפה שלכם מקיימת את עקרונות התיכנון: משמעות, ניידות, התמצאות, עניין, והכוונה.
-
+The open world allows for diverse and meaningful interactions, emphasizing the impact of the family's decisions on their journey within a larger, interconnected environment.
+The 3D, round design enhances mobility, offering players the freedom to explore in all directions. The dynamic environment supports efficient movement and strategic navigation.
+Distinct landmarks and a three-dimensional perspective aid in player orientation, providing a clear understanding of the family's position within the game world.
+The open and 3D world design encourages players to explore varied landscapes and engage deeply with their surroundings, fostering interest in the family's interactions and challenges within a more expansive setting.
+The expanded world supports the purpose of the game – guiding the family through the complexities of life in a new country. Players can immerse themselves in a broader narrative, making impactful decisions that shape the family's journey.
+By adopting a round, 3D world, the game delivers a visually compelling and immersive experience that aligns with the narrative while providing players with a larger, interconnected environment to explore and engage with.
+<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 
 ### 8. תוצאות
 
-* כמה תוצאות אפשריות יהיו למשחק, ומה הן יהיו? 
-* עד כמה התוצאה תלויה במזל לעומת כישרון? 
-* האם המשחק יהיה "סכום אפס", שיתופי, או מורכב?
+The game can end in different ways, like doing well, managing but with difficulties, getting community support, staying the same, or facing challenges.
+Achieving financial stability is more about making smart choices than just luck. Players need to plan and use resources wisely.
+The game involves working together with family members. Players balance helping their family and making decisions for a better life.
 
+<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 ---
 
 ## סקר שוק
 
-לפני שמתחילים לעבוד על משחק (או כל מוצר אחר), חשוב לוודא שלא עשו את זה קודם. לא נעים לעבוד סמסטר שלם (או שנה שלמה) על משחק ואז לגלות שכבר יש משחק כזה. 
+1. **The Sims**
+https://www.ea.com/games/the-sims
+While The Sims focuses on individual life simulation, our game emphasizes the collective experience of a family adapting to a new country. The integration of puzzles, community interactions, and systemic challenges adds a layer of complexity beyond individual life management.
+<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 
-חפשו בגוגל, בחנות play, בפייסבוק, ובכל מקום אחר שיש לכם גישה אליו, משחקים דומים לרעיון שלכם. ציינו באיזה ביטויי-חיפוש השתמשתם.
+3. **This War of Mine**
+https://store.steampowered.com/app/282070/This_War_of_Mine/
+This War of Mine is a harsh realities of war, whereas our game is the challenges of immigration. Our game explores economic constraints, skill development, and community relations in a new country.
+<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 
-זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
-
-* שימו קישור וצילום-מסך להמחשה.
-* הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
-
-מבין הרכיבים הרשמיים, 
-איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק?
+4. **Banished**
+https://store.steampowered.com/app/242920/Banished/
+While Banished involves establishing a settlement, our game's emphasis is on a family unit, individual skill development, and the intricate balance between cooperation and competition with other in-game families sets it apart. The narrative context of adapting to a new country adds unique challenges.
+<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 
 

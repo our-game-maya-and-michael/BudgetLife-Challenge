@@ -2,7 +2,7 @@
 
 **New Beginnings: Navigating Life in a New Land on a Tight Budget**
 
-## מהות המשחק
+## The essence of the game
 A simulation game where a family must thrive in a new country with limited funds. Each family member contributes by solving diverse puzzles. The family needs make decisions on essential purchases that directly impact the family's fate, like food and housing. Players navigate real-life scenarios, making strategic choices to balance earning and spending. Success in this game requires resourcefulness, teamwork, and financial acumen to build a stable life on a tight budget.
 
 The game is designed for a regular computer.
@@ -13,16 +13,16 @@ The game is designed for a regular computer.
 ---
 
 
-## רכיבים רשמיים
+## Formal Elements
 
-### 1. שחקנים
+### 1. Players
 The game is designed for players of various ages, typically catering to teenagers and adults. It is suitable for players with diverse talent levels, experience, and interests, as it combines elements of strategy, problem-solving, and financial management. The game is intended for single-player experiences or can be played with multiple players taking on different roles within the family.
 
 The interaction between players are cooperative, emphasizing teamwork and collective decision-making. While there may be individual challenges and puzzles to solve, the overarching goal is the family's success, encouraging players to collaborate and pool their skills to navigate the complexities of managing life in a new country with limited resources.
 
 <img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/familyplayers.png" alt="Example Image">
 
-### 2. יעדים
+### 2. objectives
 The objectives for players to win "BudgetLife-Challenge" include:
 
 1. **Puzzle Solving:** Solve a diverse range of puzzles spanning budgeting challenges, community quests, skill-building tasks, and decision-making dilemmas to overcome obstacles.
@@ -37,7 +37,7 @@ The game will inform players of their goals through a combination of in-game pro
 
 <img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/goals.png" alt="Example Image">
 
-### 3. תהליכים
+### 3. Processes
 **1. First Thirty Seconds:**
   - The player starts the game by clicking the "Play" button on the main menu.
   - They are welcomed with an introductory cinematic showcasing the family's arrival in a new country, highlighting their financial constraints.
@@ -66,7 +66,7 @@ By providing clear guidance, visual cues, and an engaging introductory sequence,
 
 <img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/process.png" alt="Example Image">
 
-### 4. חוקים
+### 4. Rules
 
 **Rules Limiting Player's Actions:**
 1. **Budget Constraints:** The player must limit the budget for daily expenses, purchases, and unforeseen challenges.
@@ -90,7 +90,7 @@ By gradually introducing and reinforcing rules through tutorials, in-game guidan
 
 <img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/rules.png" alt="Example Image">
 
-### 5. משאבים
+### 5. Resources
 **Money:**
 Money is the primary resource for purchasing essentials, upgrading housing, and addressing challenges. Earned through jobs, puzzles, and financial decisions, it directly impacts the family's well-being and stability. Job opportunities are limited, requiring strategic choices.
 
@@ -104,7 +104,7 @@ A real-time display of the money, time, and skills. Notifications keep players u
 
 <img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 
-### 6. עימותים
+### 6. Conflicts
 
 1. **Between the Player and the System (Obstacles):**
    - The player faces various challenges and obstacles that affect the family's progress. These may include economic downturns, unexpected expenses, and limited job opportunities.
@@ -114,7 +114,7 @@ A real-time display of the money, time, and skills. Notifications keep players u
 <img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 
 
-### 7. גבולות
+### 7. Boundaries
 The game world will be closed and round, focusing on the family's immediate surroundings within the new country. While the family can engage with the local community and navigate various challenges, the overall scope is restricted to enhance the depth of personal and community interactions.
 The round world design naturally presents a continuous landscape, and players will notice distinctive features marking the limits of exploration.
 
@@ -128,7 +128,7 @@ The expanded world supports the purpose of the game – guiding the family throu
 By adopting a round, 3D world, the game delivers a visually compelling and immersive experience that aligns with the narrative while providing players with a larger, interconnected environment to explore and engage with.
 <img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 
-### 8. תוצאות
+### 8. Outcomes
 
 The game can end in different ways, like doing well, managing but with difficulties, getting community support, staying the same, or facing challenges.
 Achieving financial stability is more about making smart choices than just luck. Players need to plan and use resources wisely.
@@ -137,7 +137,7 @@ The game involves working together with family members. Players balance helping 
 <img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 ---
 
-## סקר שוק
+## Market Research
 
 1. **The Sims**
 https://www.ea.com/games/the-sims

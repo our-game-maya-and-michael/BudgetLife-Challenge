@@ -2,7 +2,7 @@
 
 **New Beginnings: Navigating Life in a New Land on a Tight Budget**
 
-## מהות המשחק
+## The essence of the game
 A simulation game where a family must thrive in a new country with limited funds. Each family member contributes by solving diverse puzzles. The family needs make decisions on essential purchases that directly impact the family's fate, like food and housing. Players navigate real-life scenarios, making strategic choices to balance earning and spending. Success in this game requires resourcefulness, teamwork, and financial acumen to build a stable life on a tight budget.
 
 The game is designed for a regular computer.

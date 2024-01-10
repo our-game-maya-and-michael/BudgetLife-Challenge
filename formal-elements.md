@@ -102,7 +102,8 @@ Individual skills influence family members' contributions. Developed through sol
 
 A real-time display of the money, time, and skills. Notifications keep players updated on resources, job opportunities, and community feedback. The progress tracker visually represents the family's status, aiding informed decision-making.
 
-<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/0c6bbd53-ba88-4c97-8864-2941fec2da68)
+
 
 ### 6. Conflicts
 
@@ -111,8 +112,8 @@ A real-time display of the money, time, and skills. Notifications keep players u
 
 2. **Between the Player and Himself (Dilemmas):**
    - The player encounters personal dilemmas, where decisions have moral, ethical, or emotional implications for the family.
-<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
 
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/f7b85bb8-0beb-498f-952c-d4dd5a5abfd0)
 
 ### 7. Boundaries
 The game world will be closed and round, focusing on the family's immediate surroundings within the new country. While the family can engage with the local community and navigate various challenges, the overall scope is restricted to enhance the depth of personal and community interactions.
@@ -126,7 +127,8 @@ Distinct landmarks and a three-dimensional perspective aid in player orientation
 The open and 3D world design encourages players to explore varied landscapes and engage deeply with their surroundings, fostering interest in the family's interactions and challenges within a more expansive setting.
 The expanded world supports the purpose of the game – guiding the family through the complexities of life in a new country. Players can immerse themselves in a broader narrative, making impactful decisions that shape the family's journey.
 By adopting a round, 3D world, the game delivers a visually compelling and immersive experience that aligns with the narrative while providing players with a larger, interconnected environment to explore and engage with.
-<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
+
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/9de88d7b-8759-4ca6-894f-7dcf998ccd78)
 
 ### 8. Outcomes
 
@@ -134,7 +136,8 @@ The game can end in different ways, like doing well, managing but with difficult
 Achieving financial stability is more about making smart choices than just luck. Players need to plan and use resources wisely.
 The game involves working together with family members. Players balance helping their family and making decisions for a better life.
 
-<img src="[https://example.com/example.jpg](https://example.com/example.jpg](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png)" alt="Example Image">
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/1dce6521-106b-4d88-96d5-0514adb97883)
+
 ---
 
 ## Market Research

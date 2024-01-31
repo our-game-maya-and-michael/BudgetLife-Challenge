@@ -13,6 +13,8 @@ public class GameManager : MonoBehaviour
     private int size;
     private bool shuffling = true;
     private bool canCheckCompletion = false;
+    private float fromLeft = -1;
+    private float fromRight = 1;
 
     private void Start()
     {
@@ -69,9 +71,9 @@ public class GameManager : MonoBehaviour
             {
                 Transform piece = Instantiate(piecePrefab, gameTransform);
                 pieces.Add(piece);
-                // Pieces will be in a game board going from -1 to +1.
-                piece.localPosition = new Vector3(-1 + (2 * width * col) + width,
-                                                  +1 - (2 * width * row) - width,
+                // Pieces will be in a game board going from -1(Left) to +1(Right).
+                piece.localPosition = new Vector3(fromLeft + (2 * width * col) + width,
+                                                  fromRight - (2 * width * row) - width,
                                                   0);
                 piece.localScale = ((2 * width) - gapThickness) * Vector3.one;
                 piece.name = $"{(row * size) + col}";

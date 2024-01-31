@@ -7,11 +7,9 @@ A simulation game where a family must thrive in a new country with limited funds
 
 The game is designed for a regular computer.
 
-<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png" alt="Example Image">
-
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/b546a49b-49b7-4a1a-8d4a-71dfa93ba3b7)
 
 ---
-
 
 ## Formal Elements
 
@@ -20,7 +18,7 @@ The game is designed for players of various ages, typically catering to teenager
 
 The interaction between players are cooperative, emphasizing teamwork and collective decision-making. While there may be individual challenges and puzzles to solve, the overarching goal is the family's success, encouraging players to collaborate and pool their skills to navigate the complexities of managing life in a new country with limited resources.
 
-<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/familyplayers.png" alt="Example Image">
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/813d1b03-7fc0-48dc-86ef-7ca69cdecdcb)
 
 ### 2. objectives
 The objectives for players to win "BudgetLife-Challenge" include:
@@ -35,7 +33,7 @@ The objectives for players to win "BudgetLife-Challenge" include:
 
 The game will inform players of their goals through a combination of in-game prompts, notifications, and a dedicated objectives interface. As players progress through the game, they will receive updates on their family's well-being, financial status, and helping them stay focused on achieving their objectives. Additionally,  challenges and events will arise to provide players with specific, short-term goals that contribute to the overall success of the family.
 
-<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/goals.png" alt="Example Image">
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/a36fa26d-3d3e-4651-b79e-01ef56f86d8f)
 
 ### 3. Processes
 **1. First Thirty Seconds:**
@@ -64,7 +62,7 @@ The game will inform players of their goals through a combination of in-game pro
 
 By providing clear guidance, visual cues, and an engaging introductory sequence, the game aims to get players attention within the first thirty seconds and sustain their interest throughout the core and ending processes.
 
-<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/process.png" alt="Example Image">
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/5ec28d15-b512-40d4-820c-ddc014a5dc9a)
 
 ### 4. Rules
 
@@ -88,7 +86,7 @@ By providing clear guidance, visual cues, and an engaging introductory sequence,
 
 By gradually introducing and reinforcing rules through tutorials, in-game guidance, and feedback mechanisms, players can learn to navigate the complexities of the game while understanding the consequences of their actions.
 
-<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/rules.png" alt="Example Image">
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/8fb6ebea-4574-414b-b7ce-34ce53827f27)
 
 ### 5. Resources
 **Money:**
@@ -103,7 +101,6 @@ Individual skills influence family members' contributions. Developed through sol
 A real-time display of the money, time, and skills. Notifications keep players updated on resources, job opportunities, and community feedback. The progress tracker visually represents the family's status, aiding informed decision-making.
 
 ![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/0c6bbd53-ba88-4c97-8864-2941fec2da68)
-
 
 ### 6. Conflicts
 
@@ -145,15 +142,17 @@ The game involves working together with family members. Players balance helping 
 1. **The Sims**
 https://www.ea.com/games/the-sims
 While The Sims focuses on individual life simulation, our game emphasizes the collective experience of a family adapting to a new country. The integration of puzzles, community interactions, and systemic challenges adds a layer of complexity beyond individual life management.
-<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/sims.jpeg" alt="Example Image">
+
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/c0594a70-110f-4803-9fd3-cac3eb0c242d)
 
 3. **This War of Mine**
 https://store.steampowered.com/app/282070/This_War_of_Mine/
 This War of Mine is a harsh realities of war, whereas our game is the challenges of immigration. Our game explores economic constraints, skill development, and community relations in a new country.
-<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/This%20War%20of%20Mine.jpeg" alt="Example Image">
 
-4. **Banished**
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/319fa2a3-8b71-4103-9d26-f2d985c823c9)
+
+5. **Banished**
 https://store.steampowered.com/app/242920/Banished/
 While Banished involves establishing a settlement, our game's emphasis is on a family unit, individual skill development, and the intricate balance between cooperation and competition with other in-game families sets it apart. The narrative context of adapting to a new country adds unique challenges.
-<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/Banished.jpeg" alt="Example Image">
 
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/d1b47db8-1b91-445d-b4a4-e2335e6076fd)

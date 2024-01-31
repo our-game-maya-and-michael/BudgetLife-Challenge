@@ -10,7 +10,11 @@ The game is designed for a regular computer.[Play our first level](https://mayam
 
 <img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png" alt="Example Image">
 
-### Credits
+### Scripts
+* [Game manager](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/Assets/Scripts/GameManager.cs)
+* [Scene transition](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/Assets/Scripts/SceneTransition.cs)
+
+#### Credits
 * [Screaming girl meme](https://www.deviantart.com/redjoey1992/art/Baby-Girl-Screaming-meme-747454729)
 * [Talking bubble](https://gallery.yopriceville.com/Free-Clipart-Pictures/Speech-Bubble-PNG/Comics_Speech_Bubble_Clipart])
 * [Passport](https://www.klicco.info/%D7%93%D7%A8%D7%9B%D7%95%D7%A0%D7%99%D7%9D-%D7%94%D7%A0%D7%A4%D7%A7%D7%94-%D7%97%D7%99%D7%93%D7%95%D7%A9-%D7%91%D7%99%D7%95%D7%9E%D7%98%D7%A8%D7%99-%D7%95%D7%A2%D7%95%D7%93/)

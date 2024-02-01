@@ -8,7 +8,7 @@ Players navigate real-life scenarios, making strategic choices to balance earnin
 
 The game is designed for a regular computer.[Play our first level](https://mayamichael.itch.io/budgetlife-challange)
 
-<img src="https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/family%20next%20to%20plane.png" alt="Example Image">
+![image](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/assets/85742675/a48e53d0-3769-4390-84f7-07e046cfe9ee)
 
 ### Scripts
 * [Game manager](https://github.com/our-game-maya-and-michael/BudgetLife-Challenge/blob/main/Assets/Scripts/GameManager.cs)
